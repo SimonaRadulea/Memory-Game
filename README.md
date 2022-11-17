@@ -24,4 +24,4 @@ Use the following [link](https://simonaradulea.github.io/Memory-Game/) to try th
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/SimonaRadulea/Memory-Game/blob/main/LICENSE.txt)
