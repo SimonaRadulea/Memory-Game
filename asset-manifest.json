@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Memory-Game/static/css/main.09a95403.css",
+    "main.js": "/Memory-Game/static/js/main.e87dd64f.js",
+    "static/js/787.69b12325.chunk.js": "/Memory-Game/static/js/787.69b12325.chunk.js",
+    "static/media/turtle.png": "/Memory-Game/static/media/turtle.964d7a4d7eee66b58388.png",
+    "static/media/lion.png": "/Memory-Game/static/media/lion.3c8db2b91f16909e1377.png",
+    "static/media/red-panda.png": "/Memory-Game/static/media/red-panda.124f5b9cbcb0fb1656e6.png",
+    "static/media/rabbit.png": "/Memory-Game/static/media/rabbit.914dd58351f5555db5ed.png",
+    "static/media/ferret.png": "/Memory-Game/static/media/ferret.b5b9eaaa12622c30b12d.png",
+    "static/media/penguin.png": "/Memory-Game/static/media/penguin.0e7f6a98eb2929ad2c50.png",
+    "static/media/cow.png": "/Memory-Game/static/media/cow.7c2d0a960a95cda7a0ac.png",
+    "static/media/chicken.png": "/Memory-Game/static/media/chicken.c7bc4c978fe546b1952d.png",
+    "static/media/octopus.png": "/Memory-Game/static/media/octopus.29a355d4077c3a3a99ed.png",
+    "static/media/origami.png": "/Memory-Game/static/media/origami.c0c7c3e1f0ce29773431.png",
+    "static/media/cat.png": "/Memory-Game/static/media/cat.35113f9c577570948668.png",
+    "index.html": "/Memory-Game/index.html",
+    "main.09a95403.css.map": "/Memory-Game/static/css/main.09a95403.css.map",
+    "main.e87dd64f.js.map": "/Memory-Game/static/js/main.e87dd64f.js.map",
+    "787.69b12325.chunk.js.map": "/Memory-Game/static/js/787.69b12325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09a95403.css",
+    "static/js/main.e87dd64f.js"
+  ]
+}
